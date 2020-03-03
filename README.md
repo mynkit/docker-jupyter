@@ -1,5 +1,6 @@
-# docker-jupyter
-dockerでjupyter立ち上げでアクセスする方法
+# docker-jupyter-sample
+
+## dockerでjupyter立ち上げでアクセスする方法
 
 * dockerでjupyterを立ち上げ．(http://localhost:9999 にアクセスすればjupyterみれる )
 
